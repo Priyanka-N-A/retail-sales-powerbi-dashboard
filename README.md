@@ -48,7 +48,7 @@ End-to-end data analytics project analyzing retail sales transactions to uncover
 ---
 
 ## Dashboard Preview
-![Sales Overview](screenshots/dashboard_overview.png)
+![Sales Overview]("C:\Users\Priyanka N A\Downloads\archive (1)\Screenshot 2026-04-04 181317.png")
 
 ---
 

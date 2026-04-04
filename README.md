@@ -9,7 +9,7 @@ End-to-end data analytics project analyzing retail sales transactions to uncover
 
 ## Dataset
 - **Source:** Sales Transactions Dataset
-- **Records:** [] transactions
+- **Records:** [2501] transactions
 - **Columns:** 19 (transaction_id, customer info, 
   product, pricing, payment, delivery, returns, ratings)
 - **Period:** [01-03-2026] to [04-04-2026]
